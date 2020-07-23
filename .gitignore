@@ -1,0 +1,16 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+pager-application/.DS_Store
+
+# Maven
+log/
+target/
+
+pager-application/log/
+pager-application/target/
+
