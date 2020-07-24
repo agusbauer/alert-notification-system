@@ -126,7 +126,7 @@ Because the adapters are not implemented, the application does not contains a ma
 ### Requirements
 
 * Maven 3.
-* Java 8 environment.
+* Java 8 jdk. [installation guide](https://mkyong.com/java/how-to-install-java-on-mac-osx/)
 
 ### Steps
 1) Go to the folder `/alert-notification-system/pager-application`
